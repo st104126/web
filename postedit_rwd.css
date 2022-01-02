@@ -1,0 +1,192 @@
+@media (max-width: 1024px) {
+  .article,
+  .leftSquare,
+  .rightSquare,
+  .imageSquare,
+  .Title,
+  .imageSquare,
+  .time,
+  .footercontent,
+  .footerSquare {
+    width: 100%;
+  }
+  .content {
+    font-size: 50px;
+  }
+  .photosquare {
+    justify-content: center;
+  }
+  .imageimage1 {
+    margin-left: 10px;
+  }
+  .imageimage1,
+  .imageimage2 {
+    max-width: auto;
+    height: auto;
+  }
+  .topimage {
+    max-width: 100%;
+    height: auto;
+  }
+  .leftSquare > .image {
+    height: auto;
+    max-width: 100%;
+    margin-left: 30px;
+  }
+  .rightSquare > .image {
+    height: auto;
+    max-width: 100%;
+    margin-right: 30px;
+  }
+  .leftcontent {
+    margin-right: 100px;
+  }
+  .rightcontent {
+    margin-left: 100px;
+  }
+}
+@media (max-width: 768px) {
+  .article,
+  .leftSquare,
+  .rightSquare,
+  .imageSquare,
+  .Title,
+  .imageSquare,
+  .time,
+  .footercontent,
+  .footerSquare {
+    width: 100%;
+  }
+  .article {
+    height: auto;
+  }
+  .photosquare {
+    justify-content: center;
+  }
+  .imageimage1 {
+    margin-left: 10px;
+  }
+  .imageimage1,
+  .imageimage2 {
+    max-width: auto;
+    height: auto;
+  }
+  .topimage {
+    max-width: 100%;
+    height: auto;
+  }
+  .articalTitle {
+    font-size: 25px;
+  }
+  #font {
+    font-size: 20px;
+  }
+  .content {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 350px;
+    font-size: 40px;
+  }
+  .leftSquare > .image {
+    height: auto;
+    max-width: 100%;
+  }
+  .rightSquare > .image {
+    height: auto;
+    max-width: 100%;
+    margin-right: 30px;
+  }
+  .leftcontent {
+    margin-right: 15px;
+  }
+  .rightcontent {
+    margin-left: 20px;
+  }
+}
+@media (max-width: 375px) {
+  .article,
+  .leftSquare,
+  .rightSquare,
+  .imageSquare,
+  .Title,
+  .imageSquare,
+  .time,
+  .footercontent,
+  .footerSquare {
+    width: 100%;
+  }
+  .Title {
+    height: 300px;
+  }
+  .time,
+  .topcontent,
+  .smalltitle,
+  .leftcontent,
+  .rightcontent,
+  #font {
+    font-size: 15px;
+  }
+  .articalTitle {
+    font-size: 17px;
+    padding-top: 40px;
+  }
+  .footerSquare,
+  .article {
+    height: auto;
+  }
+  .content {
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 25px;
+  }
+  .rightSquare,
+  .leftSquare {
+    display: flex;
+    flex-direction: column;
+  }
+  .leftSquare > .image {
+    display: block;
+    margin: auto;
+    height: auto;
+    max-width: 100%;
+  }
+  .rightSquare > .image {
+    display: block;
+    margin: auto;
+    height: auto;
+    max-width: 100%;
+  }
+  strong {
+    text-align: center;
+  }
+  .leftcontent {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: auto;
+    margin-top: 20px;
+  }
+  .rightcontent {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: auto;
+    margin-top: 20px;
+  }
+  .decorateline {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  #igiconii,
+  .contactus {
+    display: block;
+    margin: auto;
+  }
+  .photosquare {
+    justify-content: center;
+  }
+}
